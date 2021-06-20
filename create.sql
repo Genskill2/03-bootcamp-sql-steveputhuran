@@ -1,4 +1,4 @@
-create table publisher(
+create table publishers(
     id integer primary key,
     name text,
     country text
